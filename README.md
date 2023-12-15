@@ -1,4 +1,4 @@
-<div align="center" > <img height="250" width="700" src="https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif"> </div>
+
  <h1 align="center">Hi 👋, I'm Shreejith N S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
