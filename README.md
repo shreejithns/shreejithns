@@ -1,6 +1,6 @@
 
  <h1 align="center">Hi 👋, I'm Shreejith N S</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend and Software developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/eb/52/56/eb5256dd0b508d2f2ee706e5dea75081.jpg" > 
 
