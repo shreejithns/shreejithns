@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **frontend Frameworks**
 
-- 👨‍💻 All of my projects are available at [shreejithns.dev/](https://shreejithns.dev/)
+- 👨‍💻 All of my projects are available at [shreejithns.dev](https://shreejithns.dev/)
 
 - 💬 Ask me about **FrontEnd web development**
 
