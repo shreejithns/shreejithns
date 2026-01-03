@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif"
+    alt="Pixel coding workspace"
+    width="100%"
+  />
+</p>
+
 <h1 align="center">Hi 👋, I'm Shreejith N S</h1>
 <h3 align="center">
   Backend-Focused Software Engineer | Python • REST APIs • Distributed Systems • AI
