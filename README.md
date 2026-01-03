@@ -8,9 +8,8 @@
 
 # Hi 👋, I'm Shreejith N S
 
-### An experienced Javascript developer
+### Backend-Focused Software Engineer | Python • REST APIs • Distributed Systems • AI
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreejithns&label=Profile views&color=0e75b6&style=flat" alt="shreejithns" /> </p>
 
 - 🔭 I'm currently working on **backend-driven and API-centric and AI projects**
 
