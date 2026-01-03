@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreejithns&label=Profile%20views&color=0e75b6&style=flat" alt="shreejithns" /> </p>
 <p align="center">
   <img
     src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif"
